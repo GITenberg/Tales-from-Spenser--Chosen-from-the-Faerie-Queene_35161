@@ -1,0 +1,39 @@
+_repo: Tales-from-Spenser--Chosen-from-the-Faerie-Queene_35161
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: MacLehose, Sophia H.
+    deathdate: 1912
+    gutenberg_agent_id: '37504'
+    url: http://www.gutenberg.org/2009/agents/37504
+  - agent_name: Spenser, Edmund
+    aliases:
+    - Spenser, Edmond
+    - Spencer, Edmund
+    - Immerito
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Spenser
+description: ''
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcc 'PR'
+title: Tales from Spenser, Chosen from the Faerie Queene
+url: http://www.gutenberg.org/ebooks/35161
